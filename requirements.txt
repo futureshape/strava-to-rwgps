@@ -1,0 +1,5 @@
+requests>=2.32.0
+pandas>=2.2.0
+python-dotenv>=1.0.0
+fitparse>=1.2.0
+gpxpy>=1.6.0
